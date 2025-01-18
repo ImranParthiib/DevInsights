@@ -7,8 +7,7 @@
     I am continually enhancing my expertise and exploring backend technologies like Node.js, Express, and MongoDB, while also diving into emerging fields such as AI and blockchain.
 </p>
 <p>
-    In addition to web development, I have experience with C, C++, Java, and Python, and I possess strong knowledge of data structures, algorithms, and object-oriented programming. I enjoy problem-solving on platforms such as URI, HackerRank, and Codeforces.
-    Outside the technical realm, I enjoy reading and writing, which fuel my creativity and help me stay inspired. 📚
+    In addition to web development, I have experience in C++, Java, Android development, and a solid foundation in data structures, algorithms, and OOP. I enjoy problem-solving on platforms like URI, HackerRank, and Codeforces. Beyond tech, I find inspiration in reading and writing.📚
 </p>
  
 <p>
@@ -110,6 +109,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [# JavaScript ES6 Features](https://dev.to/imranparthib/-javascript-es6-features-35di)
 - [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://dev.to/imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-14m5)
@@ -119,11 +119,12 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Pervasive Computing and Android Development #appdevelopment #java #android](https://www.youtube.com/watch?v=tEAR8BBwwd8)
 - [When your instincts align with CPP😄.](https://www.youtube.com/watch?v=mnQ8tnvUODY)
 - [When cpp prgrammer forced to write kotlin programming 😄](https://www.youtube.com/watch?v=8bqm_FL-FAg)
-- [Exam Time Flight    #javascript  #programming #react](https://www.youtube.com/watch?v=9JXNA-bOuDY)
-- [Congratulations You Found Me Gift&lpar;নিজেকে খুঁজে ফিরে&rpar;_Suno Music #ai #song  #trending](https://www.youtube.com/watch?v=SMVQD3MQKgE)
+- [Exam Time Flight #javascript #programming #react](https://www.youtube.com/watch?v=9JXNA-bOuDY)
+- [Congratulations You Found Me Gift&lpar;নিজেকে খুঁজে ফিরে&rpar;\_Suno Music #ai #song #trending](https://www.youtube.com/watch?v=SMVQD3MQKgE)
 <!-- YOUTUBE:END -->
 
 ## 🌐 Stay Updated with me:
