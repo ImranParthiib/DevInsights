@@ -7,11 +7,11 @@
     I am continually enhancing my expertise and exploring backend technologies like Node.js, Express, and MongoDB, while also diving into emerging fields such as AI and blockchain.
 </p>
 <p>
-    In addition to web development, I have experience in C++, Java, Android development, and a solid foundation in data structures, algorithms, and OOP. I enjoy problem-solving on platforms like URI, HackerRank, and Codeforces. Beyond tech, I find inspiration in reading and writing.📚
+    Along with web development, I have experience in C++, Java, Android development, and a solid understanding of data structures, algorithms, and OOP. I enjoy problem-solving on platforms like URI, HackerRank, and Codeforces. Outside of tech, I find inspiration in reading and writing.📚
 </p>
  
 <p>
-   I’m eager to collaborate on innovative projects, exchange ideas, and explore opportunities to create impactful solutions. Let’s connect and build something extraordinary together!
+   Eager to collaborate on innovative projects and create impactful solutions! Let’s connect and build something extraordinary! 🚀💡
    #WebDevelopment #React #TailwindCSS #Firebase #RecentGraduate
 </p>
         </td>
