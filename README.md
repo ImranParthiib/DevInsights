@@ -110,23 +110,20 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [# JavaScript ES6 Features](https://dev.to/imranparthib/-javascript-es6-features-35di)
 - [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
-- [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://imranparthib.hashnode.dev/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction)
-- [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://medium.com/@imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-9d21368943c2?source=rss-894672976d69------2)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://dev.to/imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-14m5)
+- [Navigating the Sea of Software Development: A Conscious Approach](https://dev.to/imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-3gcc)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-
-- [Exam Time Flight #javascript #programming #react](https://www.youtube.com/watch?v=9JXNA-bOuDY)
-- [Congratulations You Found Me Gift&lpar;নিজেকে খুঁজে ফিরে&rpar;\_Suno Music #ai #song #trending](https://www.youtube.com/watch?v=SMVQD3MQKgE)
-- [JavaScript Arrow Function #javascript #programming #ai #coding #gaming](https://www.youtube.com/watch?v=PbqchVw8pzo)
-- [তোমার নীরব অনুপস্থিতি Your Silent Absence&lpar;Suno Original Music Video&rpar; #ai #song #music #trending](https://www.youtube.com/watch?v=GA0dEETUSjk)
-- [🚀Improve Typing Skills &amp; Learn Vocabulary📚! #typing #vocabulary #english #video #gameplay #learning](https://www.youtube.com/watch?v=iCbBZ1eYBs8)
+- [Pervasive Computing and Android Development #appdevelopment #java #android](https://www.youtube.com/watch?v=tEAR8BBwwd8)
+- [When your instincts align with CPP😄.](https://www.youtube.com/watch?v=mnQ8tnvUODY)
+- [When cpp prgrammer forced to write kotlin programming 😄](https://www.youtube.com/watch?v=8bqm_FL-FAg)
+- [Exam Time Flight    #javascript  #programming #react](https://www.youtube.com/watch?v=9JXNA-bOuDY)
+- [Congratulations You Found Me Gift&lpar;নিজেকে খুঁজে ফিরে&rpar;_Suno Music #ai #song  #trending](https://www.youtube.com/watch?v=SMVQD3MQKgE)
 <!-- YOUTUBE:END -->
 
 ## 🌐 Stay Updated with me:
