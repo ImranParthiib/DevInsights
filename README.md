@@ -3,15 +3,17 @@
         <td width="65%">
             <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Pursuing+Computer+Science+and+Engineering;Web+Developer;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
             <p>
-    I am a Computer Science and Engineering student and a passionate front-end web developer from Bangladesh. I specialize in building responsive and engaging web experiences with proficiency in HTML5, CSS3, Bootstrap, Tailwind, JavaScript, and React. I continuously enhance my skills and expand into backend development with Node.js, Express, and MongoDB/(Supabase,Firebase) while exploring emerging fields like AI and blockchain technologies.  💻
+    I am a recent Computer Science and Engineering graduate and a passionate front-end web developer from Bangladesh. I specialize in building responsive, interactive, and visually appealing web experiences using HTML5, CSS3, JavaScript, React, Tailwind CSS, and Bootstrap. I have practical experience integrating Firebase Authentication to develop secure and user-friendly web applications.💻
+    I am continually enhancing my expertise and exploring backend technologies like Node.js, Express, and MongoDB, while also diving into emerging fields such as AI and blockchain.
 </p>
 <p>
-    In addition to web development, I have experience with C, C++, Java, and Python, and I possess strong knowledge of data structures, algorithms, and object-oriented programming. I enjoy problem-solving on platforms such as URI, HackerRank, and Codeforces, and am passionate about working with Python and Linux. Outside of coding, I love reading and writing, which help fuel my creativity. 📚
+    In addition to web development, I have experience with C, C++, Java, and Python, and I possess strong knowledge of data structures, algorithms, and object-oriented programming. I enjoy problem-solving on platforms such as URI, HackerRank, and Codeforces.
+    Outside the technical realm, I enjoy reading and writing, which fuel my creativity and help me stay inspired. 📚
 </p>
  
 <p>
-    I am open to collaborating on projects, sharing ideas, or discussing the latest tech trends. Let's connect and explore exciting opportunities together! #ComputerScience #WebDevelopment #TechSkills 🌐
-    #ComputerScience #WebDevelopment #TechSkills
+   I’m eager to collaborate on innovative projects, exchange ideas, and explore opportunities to create impactful solutions. Let’s connect and build something extraordinary together!
+   #WebDevelopment #React #TailwindCSS #Firebase #RecentGraduate
 </p>
         </td>
         <td hieght="50%">  
@@ -127,7 +129,7 @@
 - [🚀Improve Typing Skills &amp; Learn Vocabulary📚! #typing #vocabulary #english #video #gameplay #learning](https://www.youtube.com/watch?v=iCbBZ1eYBs8)
 <!-- YOUTUBE:END -->
 
-## 🌐 Keep Updated with me:
+## 🌐 Stay Updated with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/imranparthib" target="blank"><img align="center"
